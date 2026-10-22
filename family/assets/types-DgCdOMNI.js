@@ -1,0 +1,1 @@
+var e=[`move`,`touch`,`trap`,`kick`,`tackle`,`slide`,`head`,`throw`,`set`,`dive`,`hold`,`fallen`,`celebrate`,`dejected`],t=()=>({shots:0,onTarget:0,passes:0,passesDone:0,tackles:0,fouls:0,corners:0,saves:0,poss:0}),n=()=>({goals:0,assists:0,shots:0,onTarget:0,passes:0,passesDone:0,tackles:0,saves:0,fouls:0,touches:0});export{n,t as r,e as t};
