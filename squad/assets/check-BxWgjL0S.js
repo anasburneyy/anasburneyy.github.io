@@ -1,0 +1,1 @@
+import{Rj as e,od as t,zj as n}from"./index-BbGW-BgR.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`check`,size:24,node:[[`path`,{d:`M20 6 9 17l-5-5`}]]};t(i,n(()=>o,{get icon(){return s}}))}export{i as t};

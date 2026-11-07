@@ -1,0 +1,1 @@
+import"./index-BbGW-BgR.js";import{t as e}from"./TableScores-CVLa22pg.js";function t(t){e(t,{game:`hippo`})}export{t as default};

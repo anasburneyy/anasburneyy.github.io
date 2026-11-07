@@ -1,0 +1,1 @@
+import{aN as e}from"./index-Bnd-kCNL.js";var t=`Among the ${e.lower.replace(/^the /,``).replace(/^\w/,e=>e.toUpperCase())}`;export{t};

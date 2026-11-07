@@ -1,0 +1,1 @@
+import{Rj as e,od as t,zj as n}from"./index-Bnd-kCNL.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`chevron-left`,size:24,node:[[`path`,{d:`m15 18-6-6 6-6`}]]};t(i,n(()=>o,{get icon(){return s}}))}export{i as t};

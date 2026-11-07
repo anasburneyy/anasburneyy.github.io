@@ -1,0 +1,1 @@
+import{Lj as e,Qj as t,Zj as n,gM as r,kM as i,vM as a}from"./index-Bnd-kCNL.js";var o=a(`<span aria-hidden="true"><i class="svelte-91l5o4"></i></span>`);function s(a,s){let c=e(s,`size`,3,16),l=e(s,`ghost`,3,!1);var u=o();let d;i(()=>{d=t(u,1,`coin k-${s.kind??``}`,`svelte-91l5o4`,d,{ghost:l()}),n(u,`--s:${c()??``}px`)}),r(a,u)}export{s as t};

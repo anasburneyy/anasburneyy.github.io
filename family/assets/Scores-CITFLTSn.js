@@ -1,0 +1,1 @@
+import"./index-Bnd-kCNL.js";import{t as e}from"./TableScores-B4bMStw5.js";function t(t){e(t,{game:`stick`})}export{t as default};

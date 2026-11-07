@@ -1,0 +1,1 @@
+import{Rj as e,od as t,zj as n}from"./index-BbGW-BgR.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`message-circle`,size:24,node:[[`path`,{d:`M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719`}]]};t(i,n(()=>o,{get icon(){return s}}))}export{i as t};

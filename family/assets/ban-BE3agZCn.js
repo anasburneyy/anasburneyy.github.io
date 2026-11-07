@@ -1,0 +1,1 @@
+import{Rj as e,od as t,zj as n}from"./index-Bnd-kCNL.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`ban`,size:24,node:[[`circle`,{cx:`12`,cy:`12`,r:`10`}],[`path`,{d:`M4.929 4.929 19.07 19.071`}]]};t(i,n(()=>o,{get icon(){return s}}))}export{i as t};
