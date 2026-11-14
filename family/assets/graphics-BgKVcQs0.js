@@ -1,0 +1,1 @@
+import{n as e}from"./graphics-yal1tF9J.js";var t={low:{base:1,floor:.6,msaa:!1,shadows:!1,reflections:!1,scenery:.55,particles:.5},high:{base:1.75,floor:.6,msaa:!0,shadows:!0,reflections:!0,scenery:1,particles:1}};function n(e){return e===`low`||e===`high`?e:r()}function r(){return e()===`low`?`low`:`high`}export{r as n,n as r,t};

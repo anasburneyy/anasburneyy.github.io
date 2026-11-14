@@ -1,0 +1,1 @@
+import{Pf as e,bN as t,xN as n}from"./index-CQN9h5xH.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=t(a,r),s={name:`repeat`,size:24,node:[[`path`,{d:`m17 2 4 4-4 4`}],[`path`,{d:`M3 11v-1a4 4 0 0 1 4-4h14`}],[`path`,{d:`m7 22-4-4 4-4`}],[`path`,{d:`M21 13v1a4 4 0 0 1-4 4H3`}]]};e(i,n(()=>o,{get icon(){return s}}))}export{i as t};

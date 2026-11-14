@@ -1,0 +1,1 @@
+import"./index-CQN9h5xH.js";import{t as e}from"./TableScores-aOsk64s2.js";function t(t){e(t,{game:`paint`})}export{t as default};

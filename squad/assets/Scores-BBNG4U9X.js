@@ -1,0 +1,1 @@
+import"./index-DGmZW3tu.js";import{t as e}from"./TableScores-CfxRoha2.js";function t(t){e(t,{game:`sumo`})}export{t as default};

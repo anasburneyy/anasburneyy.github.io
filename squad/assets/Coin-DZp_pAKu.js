@@ -1,0 +1,1 @@
+import{NN as e,PN as t,QN as n,dP as r,eP as i,yN as a}from"./index-DGmZW3tu.js";var o=i(`<span aria-hidden="true"><i class="svelte-91l5o4"></i></span>`);function s(i,s){let c=a(s,`size`,3,16),l=a(s,`ghost`,3,!1);var u=o();let d;r(()=>{d=t(u,1,`coin k-${s.kind??``}`,`svelte-91l5o4`,d,{ghost:l()}),e(u,`--s:${c()??``}px`)}),n(i,u)}export{s as t};
