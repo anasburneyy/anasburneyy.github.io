@@ -1,1 +1,0 @@
-import"./index-DGmZW3tu.js";import{t as e}from"./TableScores-CfxRoha2.js";function t(t){e(t,{game:`hippo`})}export{t as default};

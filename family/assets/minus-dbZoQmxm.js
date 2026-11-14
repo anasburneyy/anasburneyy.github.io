@@ -1,0 +1,1 @@
+import{IF as e,LF as t,Xm as n}from"./index-BCNs05gB.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`minus`,size:24,node:[[`path`,{d:`M5 12h14`}]]};n(i,t(()=>o,{get icon(){return s}}))}export{i as t};

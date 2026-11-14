@@ -1,0 +1,1 @@
+import"./index-CGoIe7rs.js";import{t as e}from"./TableScores-DMIfGo55.js";function t(t){e(t,{game:`hippo`})}export{t as default};

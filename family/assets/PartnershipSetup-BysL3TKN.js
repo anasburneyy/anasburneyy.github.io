@@ -1,0 +1,1 @@
+import{XI as e,ZI as t,sk as n}from"./index-BCNs05gB.js";import r from"./Setup-DYpnoEcj.js";function i(i,a){t(a,!0),n.partnership=!0,r(i,{get here(){return a.here},partner:!0}),e()}export{i as default};

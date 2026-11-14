@@ -1,0 +1,1 @@
+import{XI as e,ZI as t,sk as n}from"./index-CGoIe7rs.js";import r from"./Setup-CDWCK7nN.js";function i(i,a){t(a,!0),n.partnership=!0,r(i,{get here(){return a.here},partner:!0}),e()}export{i as default};

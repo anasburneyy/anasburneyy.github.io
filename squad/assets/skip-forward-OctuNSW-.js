@@ -1,0 +1,1 @@
+import{IF as e,LF as t,Xm as n}from"./index-CGoIe7rs.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`skip-forward`,size:24,node:[[`path`,{d:`M21 4v16`}],[`path`,{d:`M6.029 4.285A2 2 0 0 0 3 6v12a2 2 0 0 0 3.029 1.715l9.997-5.998a2 2 0 0 0 .003-3.432z`}]]};n(i,t(()=>o,{get icon(){return s}}))}export{i as t};

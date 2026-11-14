@@ -1,0 +1,1 @@
+import{aL as e}from"./index-CGoIe7rs.js";var t=`Among the ${e.lower.replace(/^the /,``).replace(/^\w/,e=>e.toUpperCase())}`;export{t};

@@ -1,0 +1,1 @@
+import"./index-BCNs05gB.js";import{t as e}from"./TableScores-DeD_77PI.js";function t(t){e(t,{game:`stick`})}export{t as default};

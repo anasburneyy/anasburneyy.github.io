@@ -1,1 +1,0 @@
-import{VP as e}from"./index-DGmZW3tu.js";var t=`Among the ${e.lower.replace(/^the /,``).replace(/^\w/,e=>e.toUpperCase())}`;export{t};

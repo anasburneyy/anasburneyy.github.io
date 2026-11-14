@@ -1,1 +1,0 @@
-import{Pf as e,bN as t,xN as n}from"./index-DGmZW3tu.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=t(a,r),s={name:`ban`,size:24,node:[[`circle`,{cx:`12`,cy:`12`,r:`10`}],[`path`,{d:`M4.929 4.929 19.07 19.071`}]]};e(i,n(()=>o,{get icon(){return s}}))}export{i as t};

@@ -1,1 +1,0 @@
-import{GE as e,MP as t,NP as n}from"./index-CQN9h5xH.js";import r from"./Setup-dRme3Q0Y.js";function i(i,a){n(a,!0),e.partnership=!0,r(i,{get here(){return a.here},partner:!0}),t()}export{i as default};

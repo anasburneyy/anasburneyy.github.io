@@ -1,0 +1,1 @@
+import{LI as e,QI as t}from"./index-BCNs05gB.js";function n(n,r){let i;try{let e=localStorage.getItem(n);e&&(i=JSON.parse(e))}catch{}let a=e(r(i));return{value:a,save(){try{localStorage.setItem(n,JSON.stringify(t(a)))}catch{}}}}export{n as t};

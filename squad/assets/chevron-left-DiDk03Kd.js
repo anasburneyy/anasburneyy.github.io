@@ -1,0 +1,1 @@
+import{IF as e,LF as t,Xm as n}from"./index-CGoIe7rs.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s={name:`chevron-left`,size:24,node:[[`path`,{d:`m15 18-6-6 6-6`}]]};n(i,t(()=>o,{get icon(){return s}}))}export{i as t};
