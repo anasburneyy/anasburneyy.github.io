@@ -1,0 +1,1 @@
+var e=[`#ffc93c`,`#6ea8ff`];export{e as t};

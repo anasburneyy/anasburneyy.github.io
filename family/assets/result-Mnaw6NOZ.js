@@ -1,0 +1,1 @@
+import{o as e}from"./engine-2SKfOl44.js";function t(t,n,r){if(!t.solved)return[];let i=[`casefiles.closed`,...t.stars===3&&e(t)===0?[`casefiles.clean`]:[]];return n.map(e=>({id:e,name:r(e),place:1,score:t.stars,feats:i}))}function n(e,n,r,i=Date.now()){let a=t(e,[n],r);return a.length?{game:`casefiles`,at:i,players:a}:null}export{n,t};

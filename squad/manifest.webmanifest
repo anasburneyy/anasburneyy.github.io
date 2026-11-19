@@ -1,0 +1,16 @@
+{
+  "name": "The Burney Squad",
+  "short_name": "Burney Squad",
+  "description": "Party games for the Squad: pass-the-phone games that work offline, online rooms, and Gunfight.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1747",
+  "theme_color": "#0f1747",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

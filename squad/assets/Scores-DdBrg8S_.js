@@ -1,0 +1,1 @@
+import"./index-BF_POUab.js";import{t as e}from"./TableScores-Drxkmu4Z.js";function t(t){e(t,{game:`sumo`})}export{t as default};

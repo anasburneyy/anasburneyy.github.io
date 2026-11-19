@@ -1,0 +1,1 @@
+var e=typeof navigator>`u`?``:navigator.userAgent,t=/iPhone|iPad|iPod/.test(e)||typeof navigator<`u`&&navigator.platform===`MacIntel`&&navigator.maxTouchPoints>1,n=t?Number(/OS (\d+)_/.exec(e)?.[1]??/Version\/(\d+)/.exec(e)?.[1]??0):0,r=()=>t?n&&n<17?1.25:1.5:1/0;export{r as t};

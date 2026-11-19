@@ -1,0 +1,1 @@
+function e(e){return e===`hold`?`No passing this hand`:`Pass three ${e===`across`?`across`:`to the ${e}`}`}function t(e){return e===`across`?`Pass across`:`Pass ${e}`}function n(e){return e.length<=1?e[0]??``:`${e.slice(0,-1).join(`, `)} and ${e[e.length-1]}`}function r(e){return e===`left`?180:e===`right`?0:-90}export{e as i,r as n,t as r,n as t};
