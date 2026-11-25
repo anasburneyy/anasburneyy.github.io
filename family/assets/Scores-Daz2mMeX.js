@@ -1,1 +1,0 @@
-import"./index-DqRm6op1.js";import{t as e}from"./TableScores-DISecOlA.js";function t(t){e(t,{game:`stick`})}export{t as default};

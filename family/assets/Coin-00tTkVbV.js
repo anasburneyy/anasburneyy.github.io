@@ -1,1 +1,0 @@
-import{$L as e,ML as t,ZL as n,gL as r,jL as i,uR as a}from"./index-DqRm6op1.js";var o=e(`<span aria-hidden="true"><i class="svelte-91l5o4"></i></span>`);function s(e,s){let c=r(s,`size`,3,16),l=r(s,`ghost`,3,!1);var u=o();let d;a(()=>{d=t(u,1,`coin k-${s.kind??``}`,`svelte-91l5o4`,d,{ghost:l()}),i(u,`--s:${c()??``}px`)}),n(e,u)}export{s as t};

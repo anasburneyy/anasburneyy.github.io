@@ -1,0 +1,1 @@
+import{NR as e,vR as t}from"./index-B3qPqU5v.js";function n(n,r){let i;try{let e=localStorage.getItem(n);e&&(i=JSON.parse(e))}catch{}let a=t(r(i));return{value:a,save(){try{localStorage.setItem(n,JSON.stringify(e(a)))}catch{}}}}export{n as t};

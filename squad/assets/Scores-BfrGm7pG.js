@@ -1,0 +1,1 @@
+import"./index-DUi7N7tR.js";import{t as e}from"./TableScores-B_BdEl5F.js";function t(t){e(t,{game:`sumo`})}export{t as default};

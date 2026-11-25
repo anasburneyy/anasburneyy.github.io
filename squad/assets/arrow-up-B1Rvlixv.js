@@ -1,0 +1,1 @@
+import{Mh as e,_L as t,vL as n}from"./index-DUi7N7tR.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=t(a,r),s={name:`arrow-up`,size:24,node:[[`path`,{d:`m5 12 7-7 7 7`}],[`path`,{d:`M12 19V5`}]]};e(i,n(()=>o,{get icon(){return s}}))}export{i as t};
