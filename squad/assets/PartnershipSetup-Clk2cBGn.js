@@ -1,0 +1,1 @@
+import{LA as e,MR as t,jR as n}from"./index-w8sYjDKb.js";import r from"./Setup-C3QeKZaV.js";function i(i,a){t(a,!0),e.partnership=!0,r(i,{get here(){return a.here},partner:!0}),n()}export{i as default};

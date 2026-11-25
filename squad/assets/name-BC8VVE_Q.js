@@ -1,1 +1,0 @@
-import{BR as e}from"./index-BF_POUab.js";var t=`Among the ${e.lower.replace(/^the /,``).replace(/^\w/,e=>e.toUpperCase())}`;export{t};

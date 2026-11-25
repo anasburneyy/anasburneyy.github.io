@@ -1,5 +1,5 @@
-const CACHE = 'huddle-a299f213c8';
-const FILES = ["./","./assets/index-CEqw3CTh.js","./assets/esm-DTUepZ23.js","./assets/esm-XErFbmzW.js","./assets/web-CZfeXcX-.js","./assets/web-bSEFFrrH.js","./assets/alara-BNLUq9jU.webp","./assets/alara-B_3_Fe64.webp","./assets/ayra-6ghVmuLd.webp","./assets/ayra-C-_MJ3iW.webp","./assets/fredoka-latin-wght-normal-DM6njrJ3.woff2","./assets/head-alara-DCXvngFJ.webp","./assets/head-ayra-D-pn19Pv.webp","./assets/head-izel-ELnWDWsR.webp","./assets/index-EI4o2u3S.css","./assets/izel-C0DQNYE8.webp","./assets/izel-D3NtSZ7Z.webp","./icons/apple-touch-icon.png","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png","./manifest.webmanifest"];
+const CACHE = 'huddle-cc48524e50';
+const FILES = ["./","./assets/index-pdxGYgAQ.js","./assets/esm-CLgp7WPc.js","./assets/esm-CmZII4z_.js","./assets/web-C6hBO1FO.js","./assets/web-D2cxwoLp.js","./assets/alara-BNLUq9jU.webp","./assets/alara-B_3_Fe64.webp","./assets/ayra-6ghVmuLd.webp","./assets/ayra-C-_MJ3iW.webp","./assets/fredoka-latin-wght-normal-DM6njrJ3.woff2","./assets/head-alara-DCXvngFJ.webp","./assets/head-ayra-D-pn19Pv.webp","./assets/head-izel-ELnWDWsR.webp","./assets/index-DXBBRsBR.css","./assets/izel-C0DQNYE8.webp","./assets/izel-D3NtSZ7Z.webp","./icons/apple-touch-icon.png","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png","./manifest.webmanifest"];
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
 });

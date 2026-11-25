@@ -1,1 +1,0 @@
-import{BR as e}from"./index-2i1Fo6HL.js";var t=`Among the ${e.lower.replace(/^the /,``).replace(/^\w/,e=>e.toUpperCase())}`;export{t};

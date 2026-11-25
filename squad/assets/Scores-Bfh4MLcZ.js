@@ -1,0 +1,1 @@
+import"./index-w8sYjDKb.js";import{t as e}from"./TableScores-DeW7Ndw9.js";function t(t){e(t,{game:`paint`})}export{t as default};
